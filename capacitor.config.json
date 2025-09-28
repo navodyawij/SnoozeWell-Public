@@ -1,0 +1,34 @@
+{
+  "appId": "com.example.app",
+  "appName": "SnoozeWell",
+  "webDir": "dist",
+  "android": {
+    "buildOptions": {
+      "keystorePath": "",
+      "keystorePassword": "",
+      "keystoreAlias": "",
+      "keystoreAliasPassword": ""
+    }
+  },
+  "includePlugins": [
+    "@capacitor/app",
+    "@capacitor/haptics",
+    "@capacitor/keyboard",
+    "@capacitor/status-bar"
+  ],
+  "server": {
+    "allowNavigation": ["*"]
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": true,
+      "backgroundColor": "#000000",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false,
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  }
+}

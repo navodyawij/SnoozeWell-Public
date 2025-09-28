@@ -1,0 +1,114 @@
+{
+  "healthData": [
+    {
+      "date": "2024-03-20",
+      "sleepHours": 7.5,
+      "stepCount": 8432,
+      "caloriesBurned": 2150,
+      "heartRate": {
+        "average": 72,
+        "min": 58,
+        "max": 142
+      }
+    },
+    {
+      "date": "2024-03-19",
+      "sleepHours": 6.8,
+      "stepCount": 10245,
+      "caloriesBurned": 2380,
+      "heartRate": {
+        "average": 75,
+        "min": 60,
+        "max": 156
+      }
+    },
+    {
+      "date": "2024-03-18",
+      "sleepHours": 8.2,
+      "stepCount": 7865,
+      "caloriesBurned": 2050,
+      "heartRate": {
+        "average": 70,
+        "min": 56,
+        "max": 135
+      }
+    },
+    {
+      "date": "2024-03-17",
+      "sleepHours": 7.1,
+      "stepCount": 9123,
+      "caloriesBurned": 2250,
+      "heartRate": {
+        "average": 73,
+        "min": 59,
+        "max": 148
+      }
+    },
+    {
+      "date": "2024-03-16",
+      "sleepHours": 7.8,
+      "stepCount": 11567,
+      "caloriesBurned": 2520,
+      "heartRate": {
+        "average": 76,
+        "min": 61,
+        "max": 162
+      }
+    },
+    {
+      "date": "2024-03-15",
+      "sleepHours": 6.5,
+      "stepCount": 6789,
+      "caloriesBurned": 1980,
+      "heartRate": {
+        "average": 71,
+        "min": 57,
+        "max": 138
+      }
+    },
+    {
+      "date": "2024-03-14",
+      "sleepHours": 8.0,
+      "stepCount": 9876,
+      "caloriesBurned": 2320,
+      "heartRate": {
+        "average": 74,
+        "min": 58,
+        "max": 145
+      }
+    },
+    {
+      "date": "2024-03-13",
+      "sleepHours": 7.3,
+      "stepCount": 8765,
+      "caloriesBurned": 2180,
+      "heartRate": {
+        "average": 72,
+        "min": 59,
+        "max": 140
+      }
+    },
+    {
+      "date": "2024-03-12",
+      "sleepHours": 7.9,
+      "stepCount": 10123,
+      "caloriesBurned": 2420,
+      "heartRate": {
+        "average": 75,
+        "min": 60,
+        "max": 158
+      }
+    },
+    {
+      "date": "2024-03-11",
+      "sleepHours": 7.4,
+      "stepCount": 9234,
+      "caloriesBurned": 2280,
+      "heartRate": {
+        "average": 73,
+        "min": 58,
+        "max": 150
+      }
+    }
+  ]
+} 
